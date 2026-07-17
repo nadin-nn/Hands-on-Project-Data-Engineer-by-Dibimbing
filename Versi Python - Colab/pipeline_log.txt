@@ -1,0 +1,21 @@
+[2026-07-17 08:03:25] [extract] [RUNNING] Attempt 1/3
+[2026-07-17 08:03:25] [extract] [INFO] Loaded 130 baris dari raw_orders.csv
+[2026-07-17 08:03:25] [extract] [SUCCESS] Selesai dalam 0.0s
+[2026-07-17 08:03:25] [transform] [RUNNING] Attempt 1/3
+[2026-07-17 08:03:25] [transform] [INFO] Hapus 10 duplikat
+[2026-07-17 08:03:25] [transform] [INFO] Hapus 5 harga negatif
+[2026-07-17 08:03:25] [transform] [INFO] Output: 110 baris bersih
+[2026-07-17 08:03:25] [transform] [SUCCESS] Selesai dalam 0.01s
+[2026-07-17 08:03:25] [validate] [RUNNING] Attempt 1/3
+[2026-07-17 08:03:25] [validate] [INFO] Semua 4 check PASSED ✅
+[2026-07-17 08:03:25] [validate] [SUCCESS] Selesai dalam 0.0s
+[2026-07-17 08:03:25] [load] [RUNNING] Attempt 1/3
+[2026-07-17 08:03:25] [load] [INFO] Data disimpan ke orders_clean.csv (110 baris)
+[2026-07-17 08:03:25] [load] [SUCCESS] Selesai dalam 0.0s
+[2026-07-17 08:03:25] [report] [RUNNING] Attempt 1/3
+[2026-07-17 08:03:25] [report] [INFO] Report disimpan ke summary_report.csv
+[2026-07-17 08:03:25] [report] [SUCCESS] Selesai dalam 0.01s
+[2026-07-17 08:03:25] [notify] [RUNNING] Attempt 1/3
+[2026-07-17 08:03:25] [notify] [INFO] Notifikasi terkirim
+[2026-07-17 08:03:25] [notify] [SUCCESS] Selesai dalam 0.0s
+[2026-07-17 08:03:25] [pipeline] [COMPLETED] Total waktu: 0.02s
