@@ -1,0 +1,11 @@
+order_id,product_id,product_name_x,kategori_x,quantity,total_harga,tanggal_order,kota,channel,status,customer_email,product_name_y,kategori_y,harga_satuan
+ORD-10041,P005,"Monitor Samsung 24""",Elektronik,2,4200000.0,11/07/2024,Solo,website,cancelled,customer28@email.com,"Monitor Samsung 24""",Elektronik,2100000
+ORD-10032,P001,Laptop ASUS VivoBook,Elektronik,1,7500000.0,"Jun 03, 2024",Makassar,mobile_app,completed,customer2@email.com,Laptop ASUS VivoBook,Elektronik,7500000
+ORD-10116,P002,Mouse Logitech M330,Elektronik,5,1250000.0,2024-06-28 10:51:00,malang,marketplace,completed,customer1@email.com,Mouse Logitech M330,Elektronik,250000
+ORD-10057,P004,Kursi Ergonomis,Furniture,3,8400000.0,"May 13, 2024",SURABAYA,Website,pending,customer30@email.com,Kursi Ergonomis,Furniture,2800000
+ORD-10070,P003,Meja Kerja Minimalis,Furniture,5,6000000.0,"Jul 06, 2024",Yogyakarta,MARKETPLACE,shipped,customer12@email.com,Meja Kerja Minimalis,Furniture,1200000
+ORD-10082,P010,Webcam HD 1080p,Elektronik,4,1120000.0,"May 22, 2024",Semarang,mobile_app,completed,customer31@email.com,Webcam HD 1080p,Elektronik,280000
+ORD-10027,P005,"Monitor Samsung 24""",Elektronik,2,4200000.0,2024-07-01 08:32:00,DENPASAR,Website,completed,customer22@email.com,"Monitor Samsung 24""",Elektronik,2100000
+ORD-10096,P008,Headset Bluetooth,Elektronik,3,1050000.0,15/07/2024,Jakarta,website,shipped,customer15@email.com,Headset Bluetooth,Elektronik,350000
+ORD-10028,P008,Headset Bluetooth,Elektronik,5,1750000.0,08/07/2024,Bandung,website,completed,customer31@email.com,Headset Bluetooth,Elektronik,350000
+ORD-10005,P001,Laptop ASUS VivoBook,Elektronik,2,15000000.0,03/06/2024,Semarang,website,cancelled,customer26@email.com,Laptop ASUS VivoBook,Elektronik,7500000
