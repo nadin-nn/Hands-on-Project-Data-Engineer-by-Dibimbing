@@ -10,9 +10,9 @@ Pipeline ini dibuat untuk memproses data transaksi penjualan e-commerce harian. 
 
 ## 3. Transform
 - Langkah 1: Hapus Duplikasi Data
-  Sistem otomatis mendeteksi dan menghapus baris transaksi yang kembar agar tidak terjadi perhitungan ganda pada total penjualan harian.
+Sistem otomatis mendeteksi dan menghapus baris transaksi yang kembar agar tidak terjadi perhitungan ganda pada total penjualan harian.
 - Langkah 2: Filter Harga Negatif
-  Menghapus baris transaksi yang memiliki nilai nominal di bawah nol (negatif) karena nilai harga negatif dikategorikan sebagai data error atau anomali sistem yang dapat membuat laporan menjadi tidak akurat. 
+Menghapus baris transaksi yang memiliki nilai nominal di bawah nol (negatif) karena nilai harga negatif dikategorikan sebagai data error atau anomali sistem yang dapat membuat laporan menjadi tidak akurat. 
 - Langkah 3: Mengisi Data Kosong
   Sistem mengisi data email pelanggan yang kosong pada kolom customer_email, serta mengisi kolom total_harga yang kosong menggunakan nilai tengah (median) dari keseluruhan data harga agar tidak ada data bolong yang hilang saat laporan akhir diekspor. 
 - Langkah 4: Standarisasi Format Tanggal
